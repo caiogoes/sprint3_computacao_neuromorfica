@@ -1,4 +1,4 @@
-SPRINT 3 - Computação Neuromórfica
+## SPRINT 3 - Computação Neuromórfica
 
 O arquivo docker_running.png mostra a aplicação rodando utilizando flask_ngrok
 URL: http://40e0-179-110-98-116.ngrok.io
