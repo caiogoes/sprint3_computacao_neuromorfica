@@ -1,7 +1,7 @@
 ## SPRINT 3 - Computação Neuromórfica
 
 O arquivo docker_running.png mostra a aplicação rodando utilizando flask_ngrok
-URL: http://40e0-179-110-98-116.ngrok.io
+URL: http://c7bd-201-87-15-91.ngrok.io/
 
 O arquivo /read.png mostra o endpoint /read retornando os resultados da base stadiums.db via postman
 
